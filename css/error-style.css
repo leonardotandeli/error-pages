@@ -1,12 +1,12 @@
 body {
-    color: #9aa4c6;
+    color: #000;
     background: #fff;
     position: relative;
     overflow-x: hidden !important
 }
 
 h2 {
-    font-family: 'Bowlby One SC', cursive;
+    font-family: 'Bowlby One SC';
     font-size: 40px;
 }
 
@@ -14,27 +14,21 @@ p,
 .quicksand {
     font-family: 'Quicksand', sans-serif
 }
-
 .padding {
     padding-top: 120px
 }
-
-
 .error-page {
     background: #0e0f12;
     min-height: 550px;
     overflow: hidden;
     z-index: 0
 }
-
 .error-page img {
       margin-top: 120px;
       }
-
 @media (max-width: 600px) {
-
     .error-page h2 {
-        font-size: 30px
+        font-size: 50px
 
     }
 }
