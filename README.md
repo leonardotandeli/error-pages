@@ -1,6 +1,10 @@
 # Error Pages  #
 Simple and pretty html error pages to replace the standard text error pages that come with any webserver.
 
+## Info ##
+Unbranded and generic informational text for the user
+Based on Bootstrap
+
 ## Features ##
 * Static html pages
 
